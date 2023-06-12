@@ -1,0 +1,21 @@
+theme: jekyll-theme-hacker
+# Allow future dated posts
+future: true
+title: Crypto Castle
+url: "https://cryptocastle.tech" # the base hostname & protocol for your site
+repoBaseUrl: https://github.com/crypto-castle/castle-website 
+plugins:
+  - jekyll-sitemap
+tagline: Get rewards for helping to build JMES
+description: Claim bounties for new ideas, specifying and working on tasks, and carring out QA.
+logo: /assets/image/logo.svg
+twitter:
+  username: cryptocastle
+  card: summary
+social:
+  name: Crypto Castle
+  links:
+    - https://twitter.com/
+    - https://github.com/crypto-castle
+    - https://chat.cryptocastle.tech
+google_analytics: G-PZE9FSBKDS
